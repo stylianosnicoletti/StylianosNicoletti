@@ -16,7 +16,7 @@
   <img alt="dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="twilio" src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="twilio" src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="google analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=google%20analytics&logoColor=white" />
