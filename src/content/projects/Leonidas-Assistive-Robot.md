@@ -1,7 +1,7 @@
 ---
 title: 'Leonidas Assistive Robot'
 description: 'Leonidas Assistive Robot'
-pubDate: ''
+pubDate: 'Jul 21 2023'
 ---
 
 Leonidas is an assistant robot constructed with Lego pieces. Since elderly people respond better
