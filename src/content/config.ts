@@ -5,6 +5,12 @@ const projects = defineCollection({
 	schema: z.object({
 		title: z.string(),
 		heroImage: z.string().optional(),
+		description: z.string(),
+		// Transform string to Date object
+		pubDate: z
+			.string()
+			.or(z.date())
+			.transform((val) => new Date(val))
 	}),
 });
 

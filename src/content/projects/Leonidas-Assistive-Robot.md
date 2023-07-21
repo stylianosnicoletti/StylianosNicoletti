@@ -1,5 +1,7 @@
 ---
 title: 'Leonidas Assistive Robot'
+description: 'Leonidas Assistive Robot'
+pubDate: ''
 ---
 
 Leonidas is an assistant robot constructed with Lego pieces. Since elderly people respond better

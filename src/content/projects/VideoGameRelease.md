@@ -1,5 +1,7 @@
 ---
 title: 'VideoGameRelease'
+description: 'VideoGameRelease'
+pubDate: ''
 ---
 
 All of the upcoming video game 🎮 release dates 📆.
