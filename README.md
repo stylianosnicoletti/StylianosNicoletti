@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my page!</h1>
 
 
-<p> </br> I'm Stylianos Nicoletti, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/299/299946.png" width="17"/> <b>Nicosia, Cyprus</b>. </p>
+<p> </br> I'm Stylianos Nicoletti (Stelios), Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/299/299946.png" width="17"/> <b>Nicosia, Cyprus</b>. </p>
 <h3>Things I work with:</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -41,8 +41,11 @@
   <img alt="intelij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" />
   <img alt="webstorm" src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white" />
 
-
 </p>
 <h3>Where to find me:</h3>
-<p><a href="https://github.com/stylianosnicoletti" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/stylianos-nicoletti-906970115" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p>
+  <a href="https://twitter.com/stelios_nic" target="_blank"><img alt="twitter" src="	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/stylianos-nicoletti-906970115" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://www.instagram.com/stelios.nicoletti" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+  <a href="https://github.com/stylianosnicoletti" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>

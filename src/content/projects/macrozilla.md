@@ -1,7 +1,5 @@
 ---
 title: 'Macrozilla'
-description: 'sss'
-pubDate: 'Jul 22 2022'
 ---
 
 Macrozilla allows you to create your own food database or even use existing publicly available food database to register & track daily food intake 🗃️, respecting your carbohydrate, protein and fat targets 🥪. You can get a graphical summary of your average macro nutrient ratios, together with your average calorie intake within specific date ranges 📊.
