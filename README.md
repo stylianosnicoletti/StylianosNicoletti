@@ -15,7 +15,7 @@
   <img alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" />
-  <img alt="stripe" src="	https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=white" />
+  <img alt="stripe" src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=white" />
   <img alt="eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white" />
   <img alt="dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
   <img alt="vstudio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white" />
@@ -32,7 +32,7 @@
   <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
   <img alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="androidstudio" src="	https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
+  <img alt="androidstudio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
   <img alt="postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
   <img alt="supabase" src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=white" />
