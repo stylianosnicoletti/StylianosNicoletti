@@ -17,8 +17,8 @@ const presentation: Presentation = {
     "I'm *Stylianos Nicoletti* (Stelios), Fullstack developer from  *Nicosia, Cyprus*.",
   socials: [
     {
-      label: "Twitter",
-      link: "https://twitter.com/stelios_nic",
+      label: "Github",
+      link: "https://github.com/stylianosnicoletti",
     },
     {
       label: "LinkedIn",
@@ -29,8 +29,8 @@ const presentation: Presentation = {
       link: "https://www.instagram.com/stelios.nicoletti",
     },
     {
-      label: "Github",
-      link: "https://github.com/stylianosnicoletti",
+      label: "Twitter",
+      link: "https://twitter.com/stelios_nic",
     },
   ],
 };
