@@ -18,19 +18,19 @@ const presentation: Presentation = {
   socials: [
     {
       label: "Twitter",
-      link: "https://twitter.com/itsstormzz_",
+      link: "https://twitter.com/stelios_nic",
     },
     {
       label: "LinkedIn",
-      link: "https://bento.me/m-wolff",
+      link: "https://www.linkedin.com/in/stylianos-nicoletti-906970115",
     },
     {
       label: "Instagram",
-      link: "https://github.com/MaeWolff",
+      link: "https://www.instagram.com/stelios.nicoletti",
     },
     {
       label: "Github",
-      link: "https://github.com/MaeWolff",
+      link: "https://github.com/stylianosnicoletti",
     },
   ],
 };
