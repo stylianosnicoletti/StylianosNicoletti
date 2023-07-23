@@ -14,7 +14,7 @@ const presentation: Presentation = {
   mail: "stylianos.nicoletti@gmail.com",
   title: "Welcome to my page!",
   description:
-    "I'm *Stylianos Nicoletti* (Stelios), Fullstack developer from  *Nicosia, Cyprus*.",
+    "I'm *Stylianos Nicoletti* (Stelios), *Fullstack Developer* from *Nicosia, Cyprus* with a passion for innovative technologies and background in *Computer Science*.",
   socials: [
     {
       label: "Github",

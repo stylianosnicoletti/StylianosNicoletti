@@ -1,0 +1,61 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "@/layouts/Layout.astro";
+import SocialLinks from "@/components/SocialLinks.astro";
+import convertAsteriskToStrongTag from "@/utils/convertAsteriskToStrongTag";
+import presentation from "@/data/presentation";
+
+const projects = await getCollection("projects");
+---
+
+<Layout>
+  <main class="flex flex-col gap-20">
+    <article class="flex flex-col gap-8">
+      <p
+        set:html={convertAsteriskToStrongTag(
+          "Currently, I work at *TSYS (Global Payments Inc)* as a *Software Engineer*, where I have been part of a small team specializing in payment authentications since July 2019."
+        )}
+      />
+      <p
+        set:html={convertAsteriskToStrongTag(
+          "My journey in computer science began at the *University of Edinburgh*, where I completed my *B.Sc. (Hons) Computer Science* degree."
+        )}
+      />
+      <p
+        set:html={convertAsteriskToStrongTag(
+          "Before starting my professional career, I gained valuable experience as an *Intern Web Developer* at *Foody.com.cy*, an online food delivery company. During my internship, I successfully maintained the website while contributing to two groundbreaking projects."
+        )}
+      />
+      <p
+        set:html={convertAsteriskToStrongTag(
+          "Prior to university, I demonstrated exceptional leadership and self-discipline as an *Officer Cadet* in the *Cyprus National Guard*. I earned this distinguished role by achieving the highest marks in IQ tests, essay exams, and physical fitness assessments. Being responsible for a battalion helped me develop valuable leadership skills."
+        )}
+      />
+      <p
+        set:html={convertAsteriskToStrongTag(
+          "In my current position at *TSYS*, I thrive in an environment that predominantly involves *.Net (C#)*, *Oracle SQL Databases*, *Git*, and *SVN* version control. I actively contribute to the development of *AccessControlServer*, a product that implements the *3DSecure Protocol* for strong authentication in normal and e-commerce transactions. This involves technologies such as fraud detection, biometric authentication, OTP, and OOB authentication. My team efficiently manages projects using the *SCRUM agile* project management framework, with *Jira* as our primary tool. Beyond my core responsibilities, I enthusiastically embrace various other technologies in my role, including configuring *CI/CD* using *Bamboo* and *Jenkins*, scripting in *PowerShell* and *Bash*, and setting up *Linux* and *Windows* servers. My versatile expertise extends to *Spring Boot (Java)*, Apache *Kafka*, *Docker* containers, *Kubernetes*, and *Restful APIs* as well."
+        )}
+      />
+      <p
+        set:html={convertAsteriskToStrongTag(
+          "As a constant learner, I invest my *free time* in personal projects and self-improvement. I developed *'Macrozilla'*, a *Progressive Web App* for tracking macro nutrition targets, reflecting my commitment to *fitness* and a *healthy lifestyle*. In addition to that I created another web app, *'VideoGameRelease.com'*, that lists all of the upcoming video game release dates providing a user-friendly platform for gamers to stay updated on their favorite games' release schedules. Both projects leverage a couple of technologies such as *AWS services* for API proxy, *Google AdSense* as an advertising program, *Ionic* Framework with *Angular*, *Capacitor* for Cross-platform native runtime, *Firebase Firestore*, *Firebase RealTime Database* for Cloud-hosted *NoSQL* databases, *Google Cloud functions* for Serverless event triggers, *GitHub Actions* for CI/CD. "
+        )}
+      />
+      <p
+        set:html={convertAsteriskToStrongTag(
+          "I also achieved the *AWS Certified Solutions Architect* - Associate Level certification, showcasing my ability to design and deploy scalable and reliable applications on AWS."
+        )}
+      />
+      <p
+        set:html={convertAsteriskToStrongTag(
+          " During my time at the University of Edinburgh, I engaged in several notable projects. My thesis project, *'Emoji Usage in Social Media by Demographics'*, demonstrated my skills in *Python* and *Jupyter Notebook*, leading to the accurate identification of *Twitter* users' gender and race based solely on their emoji usage. This project received recognition and was nominated as an outstanding submission for the academic year. Additionally, my work was presented at the *International Conference on Social Informatics (SocInf 2019)* and cited in subsequent publications. Furthermore, I participated in a *team project* to build an *assistive robot* for the elderly, focusing on cognitive and motor fitness. I also designed an *Android location-based game* with lyrics of songs, offering a fun and challenging experience for users."
+        )}
+      />
+        <p
+        set:html={convertAsteriskToStrongTag(
+          " Outside the realm of technology, I enjoy staying active at the *gym*, building custom *computers* for myself and friends, and configuring *home networks*."
+        )}
+      />
+    </article>
+  </main>
+</Layout>
