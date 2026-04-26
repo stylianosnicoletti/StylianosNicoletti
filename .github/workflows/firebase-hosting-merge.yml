@@ -10,14 +10,17 @@ jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v1
+      - uses: actions/checkout@v4
+
+      - name: Use Node.js 22.12.0
+        uses: actions/setup-node@v4
         with:
-          node-version: ${{ matrix.node-version }}
-      - name: npm install, Run config (Set envs), build prod
+          node-version: 22.12.0
+          cache: npm
+
+      - name: Install dependencies and build
         run: |
-          npm install
+          npm ci
           npm run build
 
       - uses: FirebaseExtended/action-hosting-deploy@v0
